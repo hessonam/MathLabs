@@ -84,8 +84,7 @@ public class GrapherGUI extends JFrame implements ActionListener
     private JMenuItem originalColorTheme;
     private JMenuItem blackColorTheme;
     private JMenuItem toggleMouseCoordinates;
-    private JMenuItem preferencesMenuItem;
-    
+    private JMenuItem preferencesMenuItem;   
     private GrapherModel model;
 	private Graph graph;
 	private CustomEditor equation;
